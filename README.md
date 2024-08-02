@@ -57,7 +57,7 @@ The Random Forest model demonstrated the best performance, achieving the lowest 
 Future work could involve advanced feature engineering, incorporating additional data sources, and experimenting with other machine learning algorithms to evaluate and resolve the high RMSE and low R^2 values. 
 
 ## Repository Structure
-- `data/`: Contains the Airbnb NYC listings dataset.
+- `data/`: Contains the Airbnb NYC listings dataset in .xlsx format due to file size limits on Github. In the Jupyter Notebook script, the .csv file formate is used. Simply download the .xlsx file and save it as a .csv file to ensure readability, or change the pandas read statement at the top of the Jupyter Notebook script. 
 - `notebooks/`: Jupyter notebooks used for data preprocessing, data exploration, model training, and evaluation.
 - `README.md`: Project description and overview.
 

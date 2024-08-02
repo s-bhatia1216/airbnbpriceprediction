@@ -58,8 +58,7 @@ Future work could involve advanced feature engineering, incorporating additional
 
 ## Repository Structure
 - `data/`: Contains the Airbnb NYC listings dataset.
-- `notebooks/`: Jupyter notebooks used for data exploration, model training, and evaluation.
-- `scripts/`: Python scripts for data preprocessing, model training, and evaluation.
+- `notebooks/`: Jupyter notebooks used for data preprocessing, data exploration, model training, and evaluation.
 - `README.md`: Project description and overview.
 
 ## How to Run
